@@ -5,11 +5,6 @@ The dashboard analyzes **Indian Premier League (IPL) match data from 2008 to 201
 
 ---
 
-## Dashboard Preview
-
-![IPL Dashboard](IPL dashboard.png)
-
----
 
 ## Project Objective
 
