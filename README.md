@@ -4,7 +4,11 @@ This project presents an **interactive IPL Data Analysis Dashboard** built using
 The dashboard analyzes **Indian Premier League (IPL) match data from 2008 to 2017** to identify trends, team performance, and player statistics.
 
 ---
+## Dashboard Preview
 
+![IPL Dashboard](IPLdashboard.png)
+
+---
 
 ## Project Objective
 
